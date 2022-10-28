@@ -1,0 +1,10 @@
+footer {
+    text-align: center;
+    bottom: 0;
+    height: 2.5rem;
+    width: 1080px;
+  }
+  
+  footer p {
+    color: #ccc;
+  }
