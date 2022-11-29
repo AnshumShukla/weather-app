@@ -44,5 +44,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Pranav Tripathi](https://github.com/prnvtripathi).<br />
+Copyright © 2022 [Pranav Tripathi](https://github.com/prnvtripathi)<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
